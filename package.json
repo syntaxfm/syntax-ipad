@@ -1,0 +1,17 @@
+{
+  "name": "syntax-ipad",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build --base=/syntax-ipad/ --outDir=docs"
+  },
+  "keywords": [],
+  "author": "Wes Bos (https://wesbos.com/)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "vite": "^5.4.10"
+  }
+}
